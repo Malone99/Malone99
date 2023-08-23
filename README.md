@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farai-malone-chawora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farai-malone-chawora" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/malone99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="malone99" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/farai-malone-chawora-6484a01ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farai-malone-chawora" height="30" width="40" /></a>
+<a href="https://www.stackoverflow.com/users/malone99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="malone99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@malonechawora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@malonechawora" height="30" width="40" /></a>
 </p>
 
